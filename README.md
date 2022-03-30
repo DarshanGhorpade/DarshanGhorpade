@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 -->
-- ✨ I’m a Homosapian
+- ✨ I’m Darshan
 - ⚡ I love math, programming and books
 - 🔭 I’m currently working on online quiz system
 - 🌱 I’m currently learning mobile application development
