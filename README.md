@@ -6,7 +6,7 @@ Web Developer
 
 Hey there I am a web developer with hands on experience on projects and emerging full stack developer
 
-* 🌍  I'm based in Phaltan
+* 🌍  I'm based in India
 * ✉️  You can contact me at [mr.darshanghorpade@gmail.com](mailto:mr.darshanghorpade@gmail.com)
 * 🧠  I'm learning React JS
 * 🤝  I'm open to collaborating on Web apps, ML projects, C++
