@@ -1,5 +1,3 @@
-## [Darshan]
-
 ### C# .NET Developer | BIM Automation Expert
 
 I am a C# .NET developer with 2.5 years of experience in the Building Information Modeling (BIM) domain. I specialize in developing custom automation solutions for the construction industry to improve efficiency and productivity.
