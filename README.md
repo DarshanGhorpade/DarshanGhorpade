@@ -15,6 +15,6 @@ I am a C# .NET developer with 2.5 years of experience in the Building Informatio
 
 ### Contact
 
-- Email: [mr.darshanghorpade@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/darshan-ghorpade/]
-- GitHub: [DarshanGhorpade]
+- Email: [mr.darshanghorpade@gmail.com](mailto:mr.darshanghorpade@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/darshan-ghorpade](https://www.linkedin.com/in/darshan-ghorpade)
+- GitHub: [https://github.com/DarshanGhorpade](https://github.com/DarshanGhorpade)
