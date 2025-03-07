@@ -6,7 +6,7 @@ I am a C# .NET developer with 2.5 years of experience in the Building Informatio
 
 - **Programming Languages:** C#, C++, AutoLISP
 - **Frameworks:** .NET
-- **Tools:** [AutoCAD, Revit API]
+- **Tools:** AutoCAD, Revit API
 
 ### Experience
 
